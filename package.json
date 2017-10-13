@@ -1,7 +1,7 @@
 {
   "name": "mean-app",
   "version": "1.0.0",
-  "description": "MEAN stack application",
+  "description": "MEAN stack application Section 1 Lecture 7",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Madpoints/MEAN-stack-app.git"
+    "url": "git+https://github.com/Madpoints/Lecture-7.git"
   },
   "keywords": [
     "mean"
@@ -17,13 +17,13 @@
   "author": "john",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Madpoints/MEAN-stack-app/issues"
+    "url": "https://github.com/Madpoints/Lecture-7/issues"
   },
-  "homepage": "https://github.com/Madpoints/MEAN-stack-app#readme",
+  "homepage": "https://github.com/Madpoints/Lecture-7#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.13.3"
   },
   "devDependencies": {
-    "mocha": "^4.0.1"
+    "mocha": "^2.3.3"
   }
 }
